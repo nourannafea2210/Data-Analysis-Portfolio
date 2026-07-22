@@ -14,8 +14,10 @@ key mental health indicators across a diverse dataset of 7,000 participants.
  - Applied the Interquartile Range (IQR) method across numeric features to effectively identify and manage outliers
 # Exploratory Data Analysis (EDA) & Pattern Identification
  - Analyzed screen time metrics against mental health indicators,
-   revealing a strong positive correlation between screen hours, anxiety, and FOMO
+   revealing a strong positive correlation between screen hours, anxiety, life satisfaction, and sleep
+   
    ![plot1](https://github.com/nourannafea2210/Data-Analysis-Portfolio/blob/main/Screenshot%202026-07-22%20004350.png)
+   
  - Identified platform-specific usage trends, highlighting Instagram, TikTok, and YouTube as primary drivers of high engagement
 # Feature Engineering & Target Encoding
  - Encoded wellbeing categories (At-risk, Moderate, Good) into numeric targets to evaluate behavioral differences across user segments
