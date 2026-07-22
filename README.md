@@ -21,7 +21,11 @@ key mental health indicators across a diverse dataset of 7,000 participants.
  - Identified platform-specific usage trends, highlighting Instagram, TikTok, and YouTube as primary drivers of high engagement
 
    ![plot2](https://github.com/nourannafea2210/Data-Analysis-Portfolio/blob/main/Screenshot%202026-07-22%20004439.png)
-   
+
+ - Analyzed daily notification counts against mental health metrics, revealing a direct positive trend where higher notification frequency consistently elevates both anxiety and FOMO scores
+
+ 
+    
 # Feature Engineering & Target Encoding
  - Encoded wellbeing categories (At-risk, Moderate, Good) into numeric targets to evaluate behavioral differences across user segments
  - Selected anxiety score as the primary predictor for wellbeing risk based on feature correlation strength
