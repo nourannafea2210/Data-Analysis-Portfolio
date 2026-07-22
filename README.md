@@ -24,7 +24,7 @@ key mental health indicators across a diverse dataset of 7,000 participants.
 
  - Analyzed daily notification counts against mental health metrics, revealing a direct positive trend where higher notification frequency consistently elevates both anxiety and FOMO scores
 
- 
+ ![plot3](https://github.com/nourannafea2210/Data-Analysis-Portfolio/blob/main/Screenshot%202026-07-22%20004416.png)
     
 # Feature Engineering & Target Encoding
  - Encoded wellbeing categories (At-risk, Moderate, Good) into numeric targets to evaluate behavioral differences across user segments
